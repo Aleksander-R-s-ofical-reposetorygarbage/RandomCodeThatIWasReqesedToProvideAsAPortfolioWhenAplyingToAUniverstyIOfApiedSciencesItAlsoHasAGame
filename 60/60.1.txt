@@ -1,0 +1,2 @@
+liczba liczb mnieszch od 1000:  12
+ dwie ostanie iczby:  540 633
